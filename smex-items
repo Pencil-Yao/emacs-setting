@@ -1,0 +1,34 @@
+
+;; ----- smex-history -----
+(
+ counsel-etags-list-tag-in-current-file
+ counsel-etags-list-tag
+ counsel-etags-scan-code
+ counsel-etags-grep-current-directory
+ package-install
+ cd
+ pwd
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 12)
+ (grep . 5)
+ (pwd . 6)
+ (cd . 7)
+ (ggtags-mode . 2)
+ (mkdir . 2)
+ (m4-mode . 1)
+ (rust-format-buffer . 11)
+ (rust-compile . 9)
+ (rust-run . 29)
+ (shell . 4)
+ (battery . 1)
+ (desktop-read . 1)
+ (desktop-save . 1)
+ (counsel-etags-find-tag-at-point . 1)
+ (counsel-etags-grep-current-directory . 1)
+ (counsel-etags-scan-code . 1)
+ (counsel-etags-list-tag . 3)
+ (counsel-etags-list-tag-in-current-file . 1)
+)
